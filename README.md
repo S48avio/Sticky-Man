@@ -1,5 +1,5 @@
 
-<img src="logo.png" width="45" valign="middle" alt="StickyMan Logo">
+<img src="logo.png" width="100" valign="middle" alt="StickyMan Logo">
  StickyMan
 
 A lightweight, customizable, always-on-top AI assistant overlay built
